@@ -1,4 +1,4 @@
-NAME = canonicalForm0
+NAME = canonicalForm1
 CXX = c++
 CXXFLAGS = -Wall -Wextra -Werror -std=c++98
 
